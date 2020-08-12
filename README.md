@@ -1,0 +1,2 @@
+# KursNBSJsoupSocket
+Cilj primera je prikaz korišćenja JSOUP biblioteke Napraviti program koji preuzima trenutni srednji kurs Narodne banke Srbije sa sajta: http://www.nbs.rs/static/nbs_site/gen/cirilica/30/kurs/IndikativniKurs.htm  Na osnovu pročitanog podatka prikazati za 20 evra koliko je to dinara. Napomena: koristiti Jsoup biblioteku  Jsoup biblioteku možete preuzeti sa sajta:  https://jsoup.org  Neophodno je u projekat uključiti jar fajl preuzet sa prethodno navedenog linka.
